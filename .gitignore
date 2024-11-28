@@ -1,0 +1,8 @@
+events/
+layers/*/*/*.class
+!layers/*/*/.gitkeep
+*lock.json
+src/nodemodules/*
+!src/nodemodules/.gitignore
+
+
